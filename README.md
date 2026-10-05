@@ -1,4 +1,4 @@
-Enterprise Agentic Workflow Platform
+# Enterprise Agentic Workflow Platform
 
 ## Problem Statement
 
